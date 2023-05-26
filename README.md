@@ -1,2 +1,1 @@
-# .github
-Sistema de padaria
+# Sistema de padaria
